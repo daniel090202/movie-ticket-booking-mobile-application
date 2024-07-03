@@ -15,6 +15,25 @@
 		7699B88040F8A987B510C191 /* libPods-MovieTicketBooking-MovieTicketBookingTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MovieTicketBooking-MovieTicketBookingTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8426D5E693E40883B29EEF7E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9DBD47B5FDDCCAFA2EEE1DA4 /* PrivacyInfo.xcprivacy */; };
+		EC445F6E2C35A5640022A8D3 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F5A2C35A5640022A8D3 /* AntDesign.ttf */; };
+		EC445F6F2C35A5640022A8D3 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F5B2C35A5640022A8D3 /* Entypo.ttf */; };
+		EC445F702C35A5640022A8D3 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F5C2C35A5640022A8D3 /* EvilIcons.ttf */; };
+		EC445F712C35A5640022A8D3 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F5D2C35A5640022A8D3 /* Feather.ttf */; };
+		EC445F722C35A5640022A8D3 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F5E2C35A5640022A8D3 /* FontAwesome.ttf */; };
+		EC445F732C35A5640022A8D3 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F5F2C35A5640022A8D3 /* FontAwesome5_Brands.ttf */; };
+		EC445F742C35A5640022A8D3 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F602C35A5640022A8D3 /* FontAwesome5_Regular.ttf */; };
+		EC445F752C35A5640022A8D3 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F612C35A5640022A8D3 /* FontAwesome5_Solid.ttf */; };
+		EC445F762C35A5640022A8D3 /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F622C35A5640022A8D3 /* FontAwesome6_Brands.ttf */; };
+		EC445F772C35A5640022A8D3 /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F632C35A5640022A8D3 /* FontAwesome6_Regular.ttf */; };
+		EC445F782C35A5640022A8D3 /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F642C35A5640022A8D3 /* FontAwesome6_Solid.ttf */; };
+		EC445F792C35A5640022A8D3 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F652C35A5640022A8D3 /* Fontisto.ttf */; };
+		EC445F7A2C35A5640022A8D3 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F662C35A5640022A8D3 /* Foundation.ttf */; };
+		EC445F7B2C35A5640022A8D3 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F672C35A5640022A8D3 /* Ionicons.ttf */; };
+		EC445F7C2C35A5640022A8D3 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F682C35A5640022A8D3 /* MaterialCommunityIcons.ttf */; };
+		EC445F7D2C35A5640022A8D3 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F692C35A5640022A8D3 /* MaterialIcons.ttf */; };
+		EC445F7E2C35A5640022A8D3 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F6A2C35A5640022A8D3 /* Octicons.ttf */; };
+		EC445F7F2C35A5640022A8D3 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F6B2C35A5640022A8D3 /* SimpleLineIcons.ttf */; };
+		EC445F802C35A5640022A8D3 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC445F6C2C35A5640022A8D3 /* Zocial.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +64,26 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-MovieTicketBooking.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MovieTicketBooking.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MovieTicketBooking/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-MovieTicketBooking-MovieTicketBookingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieTicketBooking-MovieTicketBookingTests.release.xcconfig"; path = "Target Support Files/Pods-MovieTicketBooking-MovieTicketBookingTests/Pods-MovieTicketBooking-MovieTicketBookingTests.release.xcconfig"; sourceTree = "<group>"; };
-		9DBD47B5FDDCCAFA2EEE1DA4 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = MovieTicketBooking/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		9DBD47B5FDDCCAFA2EEE1DA4 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = MovieTicketBooking/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		EC445F5A2C35A5640022A8D3 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		EC445F5B2C35A5640022A8D3 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		EC445F5C2C35A5640022A8D3 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		EC445F5D2C35A5640022A8D3 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		EC445F5E2C35A5640022A8D3 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		EC445F5F2C35A5640022A8D3 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		EC445F602C35A5640022A8D3 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		EC445F612C35A5640022A8D3 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		EC445F622C35A5640022A8D3 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		EC445F632C35A5640022A8D3 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		EC445F642C35A5640022A8D3 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		EC445F652C35A5640022A8D3 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		EC445F662C35A5640022A8D3 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		EC445F672C35A5640022A8D3 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		EC445F682C35A5640022A8D3 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		EC445F692C35A5640022A8D3 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		EC445F6A2C35A5640022A8D3 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		EC445F6B2C35A5640022A8D3 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		EC445F6C2C35A5640022A8D3 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -121,6 +159,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				EC445F6D2C35A5640022A8D3 /* Fonts */,
 				13B07FAE1A68108700A75B9A /* MovieTicketBooking */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MovieTicketBookingTests */,
@@ -151,6 +190,33 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-MovieTicketBooking-MovieTicketBookingTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		EC445F6D2C35A5640022A8D3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				EC445F5A2C35A5640022A8D3 /* AntDesign.ttf */,
+				EC445F5B2C35A5640022A8D3 /* Entypo.ttf */,
+				EC445F5C2C35A5640022A8D3 /* EvilIcons.ttf */,
+				EC445F5D2C35A5640022A8D3 /* Feather.ttf */,
+				EC445F5E2C35A5640022A8D3 /* FontAwesome.ttf */,
+				EC445F5F2C35A5640022A8D3 /* FontAwesome5_Brands.ttf */,
+				EC445F602C35A5640022A8D3 /* FontAwesome5_Regular.ttf */,
+				EC445F612C35A5640022A8D3 /* FontAwesome5_Solid.ttf */,
+				EC445F622C35A5640022A8D3 /* FontAwesome6_Brands.ttf */,
+				EC445F632C35A5640022A8D3 /* FontAwesome6_Regular.ttf */,
+				EC445F642C35A5640022A8D3 /* FontAwesome6_Solid.ttf */,
+				EC445F652C35A5640022A8D3 /* Fontisto.ttf */,
+				EC445F662C35A5640022A8D3 /* Foundation.ttf */,
+				EC445F672C35A5640022A8D3 /* Ionicons.ttf */,
+				EC445F682C35A5640022A8D3 /* MaterialCommunityIcons.ttf */,
+				EC445F692C35A5640022A8D3 /* MaterialIcons.ttf */,
+				EC445F6A2C35A5640022A8D3 /* Octicons.ttf */,
+				EC445F6B2C35A5640022A8D3 /* SimpleLineIcons.ttf */,
+				EC445F6C2C35A5640022A8D3 /* Zocial.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,7 +313,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				EC445F7A2C35A5640022A8D3 /* Foundation.ttf in Resources */,
+				EC445F712C35A5640022A8D3 /* Feather.ttf in Resources */,
+				EC445F772C35A5640022A8D3 /* FontAwesome6_Regular.ttf in Resources */,
+				EC445F7D2C35A5640022A8D3 /* MaterialIcons.ttf in Resources */,
+				EC445F7F2C35A5640022A8D3 /* SimpleLineIcons.ttf in Resources */,
+				EC445F802C35A5640022A8D3 /* Zocial.ttf in Resources */,
+				EC445F7B2C35A5640022A8D3 /* Ionicons.ttf in Resources */,
+				EC445F742C35A5640022A8D3 /* FontAwesome5_Regular.ttf in Resources */,
+				EC445F702C35A5640022A8D3 /* EvilIcons.ttf in Resources */,
+				EC445F732C35A5640022A8D3 /* FontAwesome5_Brands.ttf in Resources */,
+				EC445F782C35A5640022A8D3 /* FontAwesome6_Solid.ttf in Resources */,
+				EC445F7E2C35A5640022A8D3 /* Octicons.ttf in Resources */,
+				EC445F722C35A5640022A8D3 /* FontAwesome.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				EC445F6E2C35A5640022A8D3 /* AntDesign.ttf in Resources */,
+				EC445F6F2C35A5640022A8D3 /* Entypo.ttf in Resources */,
+				EC445F752C35A5640022A8D3 /* FontAwesome5_Solid.ttf in Resources */,
+				EC445F792C35A5640022A8D3 /* Fontisto.ttf in Resources */,
+				EC445F762C35A5640022A8D3 /* FontAwesome6_Brands.ttf in Resources */,
+				EC445F7C2C35A5640022A8D3 /* MaterialCommunityIcons.ttf in Resources */,
 				8426D5E693E40883B29EEF7E /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

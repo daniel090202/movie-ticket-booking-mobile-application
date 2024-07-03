@@ -13,12 +13,21 @@ function App(): React.JSX.Element {
   return (
     <NavigationContainer>
       <Stack.Navigator screenOptions={{headerShown: false}}>
-        <Stack.Screen name="Tab" component={TabNavigator} />
+        <Stack.Screen
+          name="Tab"
+          component={TabNavigator}
+          options={{animation: 'default'}}
+        />
         <Stack.Screen
           name="MovieDetailsScreen"
           component={MovieDetailsScreen}
+          options={{animation: 'slide_from_right'}}
         />
-        <Stack.Screen name="SeatBookingScreen" component={SeatBookingScreen} />
+        <Stack.Screen
+          name="SeatBookingScreen"
+          component={SeatBookingScreen}
+          options={{animation: 'slide_from_bottom'}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );

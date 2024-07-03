@@ -16,16 +16,16 @@ end
 
 target 'MovieTicketBooking' do
   config = use_native_modules!
-
+  
   use_react_native!(
     :path => config[:reactNativePath],
     # An absolute path to your application root.
     :app_path => "#{Pod::Config.instance.installation_root}/.."
-  )
-
-  target 'MovieTicketBookingTests' do
-    inherit! :complete
-    # Pods for testing
+    )
+    
+    target 'MovieTicketBookingTests' do
+      inherit! :complete
+      # Pods for testing
   end
 
   post_install do |installer|
